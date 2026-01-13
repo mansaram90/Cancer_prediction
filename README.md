@@ -17,14 +17,10 @@ This project trains and evaluates machine learning models to predict a binary `d
 
 ## Dataset
 
-Place the dataset at:
-
-`data/cancer_data.csv`
+Find the dataset at:
 Kaggle: https://www.kaggle.com/datasets/rabieelkharoua/cancer-prediction-dataset
 
-Expected columns:
-
-Features:
+## Features used:
 - `age`
 - `gender`
 - `bmi`
@@ -34,8 +30,10 @@ Features:
 - `alcohol_intake`
 - `cancer_history`
 
-Target:
+## Target:
 - `diagnosis` (typically 0/1)
+
+## Findings:
 - Built and compared Decision Tree and Random Forest classifiers.
 - Identified key predictive features including: age, BMI, alcohol intake, physical activity, cancer history.
 - Random Forest achieved ~92% F1-score, outperforming simpler models.
