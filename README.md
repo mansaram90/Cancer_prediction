@@ -36,7 +36,6 @@ Kaggle: https://www.kaggle.com/datasets/rabieelkharoua/cancer-prediction-dataset
 ## Findings:
 - Built and compared Decision Tree and Random Forest classifiers.
 - Identified key predictive features including: age, BMI, alcohol intake, physical activity, cancer history.
-- Random Forest achieved ~92% F1-score, outperforming simpler models.
 - Delivered interpretable insights into risk factors influencing cancer diagnosis.
 
 
